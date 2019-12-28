@@ -1,0 +1,42 @@
+﻿<Window x:Class="ProgAssignment18011160James.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProgAssignment18011160James"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="290.042">
+    <Grid Margin="0,0,2,0" Background="#FF68D4D0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="BTLogin" Content="Login" HorizontalAlignment="Left" Margin="111,270,0,0" VerticalAlignment="Top" Width="75" Background="#FF2BACD3" BorderBrush="#FF2BACD3" Height="20" Click="BTLogin_Click"/>
+        <Image x:Name="ImgUser" HorizontalAlignment="Left" Height="59" Margin="32,92,0,0" VerticalAlignment="Top" Width="58" RenderTransformOrigin="0.5,0.5" Source="icons8-user-50.PNG">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.355"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="ImgPassword" HorizontalAlignment="Left" Height="59" Margin="31,173,0,0" VerticalAlignment="Top" Width="58" RenderTransformOrigin="0.5,0.5" Source="icons8-password-50.PNG">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.355"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <TextBox x:Name="TBUserName" HorizontalAlignment="Left" Height="23" Margin="98,127,0,0" TextWrapping="Wrap" Text="UserName" VerticalAlignment="Top" Width="120" Background="#FF68D4D0" BorderBrush="#FF68D4D0" GotFocus="TBUserName_GotFocus"/>
+        <TextBox x:Name="TBPassWord" HorizontalAlignment="Left" Height="23" Margin="98,210,0,0" TextWrapping="Wrap" Text="PassWord" VerticalAlignment="Top" Width="120" Background="#FF68D4D0" BorderBrush="#FF68D4D0" GotFocus="TBPassWord_GotFocus"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="100" Margin="98,0,0,0" VerticalAlignment="Top" Width="100" Source="icons8-workspace-100.PNG"/>
+        <Label x:Name="LbErrorUser" Content="Sorry the UserName you entered is wrong" HorizontalAlignment="Left" Margin="23,148,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FFFF0808"/>
+        <Label x:Name="LbErrorPass" Content="Sorry the PassWord you entered is wrong" HorizontalAlignment="Left" Margin="23,234,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="Red"/>
+
+    </Grid>
+</Window>

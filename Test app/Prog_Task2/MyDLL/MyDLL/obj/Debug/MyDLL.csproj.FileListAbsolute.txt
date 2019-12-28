@@ -1,0 +1,5 @@
+F:\Assessments\ProgTask1_18011160_JamesMcDonald\MyDLL\MyDLL\bin\Debug\MyDLL.dll
+F:\Assessments\ProgTask1_18011160_JamesMcDonald\MyDLL\MyDLL\bin\Debug\MyDLL.pdb
+F:\Assessments\ProgTask1_18011160_JamesMcDonald\MyDLL\MyDLL\obj\Debug\MyDLL.csprojResolveAssemblyReference.cache
+F:\Assessments\ProgTask1_18011160_JamesMcDonald\MyDLL\MyDLL\obj\Debug\MyDLL.dll
+F:\Assessments\ProgTask1_18011160_JamesMcDonald\MyDLL\MyDLL\obj\Debug\MyDLL.pdb

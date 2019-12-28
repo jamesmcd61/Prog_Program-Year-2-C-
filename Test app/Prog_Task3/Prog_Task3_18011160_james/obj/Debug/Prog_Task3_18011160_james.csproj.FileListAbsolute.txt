@@ -1,0 +1,107 @@
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\ApplicationInsights.config
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\csc.exe
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\vbc.exe
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\VBCSCompiler.exe
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Prog_Task3_18011160_james.dll.config
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Prog_Task3_18011160_james.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Prog_Task3_18011160_james.pdb
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.Web.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.Web.xml
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\obj\Debug\Prog_Task3_18011160_james.csprojResolveAssemblyReference.cache
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\obj\Debug\Prog_Task3_18011160_james.dll
+C:\Users\bezzi\Desktop\Prog_Task3_18011160_james\Prog_Task3_18011160_james\obj\Debug\Prog_Task3_18011160_james.pdb
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\ApplicationInsights.config
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\csc.exe
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\System.Collections.Immutable.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\System.Reflection.Metadata.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\vbc.exe
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\VBCSCompiler.exe
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\roslyn\VBCSCompiler.exe.config
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Prog_Task3_18011160_james.dll.config
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Prog_Task3_18011160_james.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Prog_Task3_18011160_james.pdb
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Dapper.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.DependencyCollector.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.Web.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.WindowsServer.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.ApplicationInsights.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\SQLinq.Dapper.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\SQLinq.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Dapper.pdb
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.DependencyCollector.xml
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.Web.xml
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.AI.WindowsServer.xml
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.ApplicationInsights.xml
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\obj\Debug\Prog_Task3_18011160_james.csprojResolveAssemblyReference.cache
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\obj\Debug\Prog_Task3_18011160_james.dll
+F:\Assessments\Prog_Task3_18011160_james\Prog_Task3_18011160_james\obj\Debug\Prog_Task3_18011160_james.pdb
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\ApplicationInsights.config
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\csc.exe
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\vbc.exe
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\VBCSCompiler.exe
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Prog_Task3_18011160_james.dll.config
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Prog_Task3_18011160_james.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Prog_Task3_18011160_james.pdb
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Dapper.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.AI.Web.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\SQLinq.Dapper.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\SQLinq.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Dapper.pdb
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.AI.Web.xml
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\obj\Debug\Prog_Task3_18011160_james.csprojResolveAssemblyReference.cache
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\obj\Debug\Prog_Task3_18011160_james.dll
+C:\Users\bezzi\Desktop\Varsity stuff\Assessments\PROG_JamesMcDonald_18011160\Prog_Task3_18011160_JamesMcDonald\Prog_Task3_18011160_james\obj\Debug\Prog_Task3_18011160_james.pdb
